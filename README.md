@@ -15,7 +15,7 @@
     university: "Sant Longowal Institute of Engineering and Technology"
     CGPA: "8.2/10"
   Past_Experiences:
-    - role: "SDE Intern At PHISCIT"
+    - role: "SDE Intern At PHICSIT"
     - project: "Department of Justice ChatBot", "GitHub Open Source"
     - achievement: "Semi-Finalist", "Myntra SDE Internship Program"
     - achievement: "AIR 2", "TFW Scholarship 2023"
